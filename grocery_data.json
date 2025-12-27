@@ -2,7 +2,7 @@
     "grocery_list": [
         {
             "name": "milk",
-            "quantity": "5"
+            "quantity": "1"
         }
     ],
     "purchase_history": [
@@ -13,19 +13,17 @@
         {
             "name": "white rice",
             "date": "2025-12-09"
+        },
+        {
+            "name": "soda",
+            "date": "2025-12-27"
         }
     ],
     "inventory": [
         {
-            "name": "biscuit",
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16",
-            "days_left": 6
-        },
-        {
-            "name": "white rice",
-            "purchase_date": "2025-12-09",
-            "expiry_date": "2025-12-16",
+            "name": "soda",
+            "purchase_date": "2025-12-27",
+            "expiry_date": "2026-01-03",
             "days_left": 7
         }
     ]
